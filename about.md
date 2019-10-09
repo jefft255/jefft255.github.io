@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ![](../photo_perso.png)
+
 I am a first year Ph.D. student at McGill University's [Mobile Robotics Lab](https://www.cim.mcgill.ca/~mrl/) under the supervision of David Meger.
 My research interests lie in the use of self-supervised machine learning for mobile robotics in natural environments.
 
