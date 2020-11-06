@@ -13,8 +13,7 @@ categories: research projets
 * Biggest dataset for 3D forest mapping and tree diameter measurements
 * We tested various diameter estimation methods
 * Part of the [Automated Forestry and Logging Operations project](https://www.researchgate.net/project/Automated-forestry-and-logging-operations)
-* Published and presented at the 12th Conference on Field and Service Robotics
-* Our preprint is available [here](https://arxiv.org/abs/1904.05281)
+* Published and presented at the 12th Conference on Field and Service Robotics and the [Journal of Field Robotics](http://dx.doi.org/https://doi.org/10.1002/rob.21980)
 
 # Video
 <!-- blank line -->
