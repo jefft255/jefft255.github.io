@@ -17,7 +17,8 @@ categories: research projets
 * We leverage self-supervised learning to learn a state representation which incorporates information from multiple sensors to better predict the future motion of the robot.
 * We test our method on synthetic data generated with an Unreal Engine simulator, as well as on the real-world [Montmorency dataset](https://norlab.ulaval.ca/research/montmorencydataset/).
 * Our model is robust to missing modalities at test time, with minimal prediction accuracy loss.
-* Our preprint is available [here](https://arxiv.org/abs/2011.11751)
+* Accepted to ICRA 2021!
+* The preprint is available [here](https://arxiv.org/abs/2011.11751)
 
 # Abstract
 Dynamics modeling in outdoor and unstructured environments is difficult because different elements in the environment interact with the robot in ways that can be hard to predict.
