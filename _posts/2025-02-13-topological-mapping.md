@@ -22,7 +22,7 @@ Autonomous robots navigating in off-road terrain like forests open new opportuni
 Autonomous exploration, aside from 13 interventions in 20 minutes
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y82HHUrzvzM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZpQKdrs_Rs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
