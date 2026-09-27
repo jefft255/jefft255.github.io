@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- include: head -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Personal web page of Jean-François Tremblay, mostly about research projects.">
+<link rel="stylesheet" href="/style.css">
+<!-- end: head -->
+<title>Topological mapping for off-road navigation · Jean-François Tremblay</title>
+</head>
+<body>
+<!-- include: header -->
+<header class="site-header">
+  <div class="wrap">
+    <a class="site-title" href="/">Jean-François Tremblay</a>
+    <nav class="site-nav">
+      <a href="/">Research</a>
+      <a href="/about/">About</a>
+      <a href="/Academic_CV_English.pdf">CV</a>
+    </nav>
+  </div>
+</header>
+<!-- end: header -->
+<main>
+<div class="wrap">
+<article>
+<h1>Topological mapping for traversability-aware long-range navigation in off-road terrain</h1>
+<p class="meta">February 13, 2025</p>
+<p class="center"><b>ICRA 2025 — Atlanta, GA, USA<br><a href="https://arxiv.org/abs/2410.01925">arXiv</a></b></p>
+<img src="/img/figure_topological_mapping.png" alt="Overview figure of the topological mapping method">
+<h2>Video presentation</h2>
+<p>Ready soon!</p>
+<h2>Abstract</h2>
+<p>Autonomous robots navigating in off-road terrain like forests open new opportunities for automation. While off-road navigation has been studied, existing work often relies on clearly delineated pathways. We present a method allowing for long-range planning, exploration and low-level control in unknown off-trail forest terrain, using vision and GPS only. We represent outdoor terrain with a topological map, which is a set of panoramic snapshots connected with edges containing traversability information. A novel traversability analysis method is demonstrated, predicting the existence of a safe path towards a target in an image. Navigating between nodes is done using goal-conditioned behavior cloning, leveraging the power of a pretrained vision transformer. An exploration planner is presented, efficiently covering an unknown off-road area with unknown traversability using a frontiers-based approach. The approach is successfully deployed to autonomously explore two 400 meters squared forest sites unseen during training, in difficult conditions for navigation.</p>
+<h2>Complete test footage, test site A</h2>
+<p>Autonomous exploration, aside from 13 interventions in 20 minutes</p>
+<div class="video"><iframe src="https://www.youtube.com/embed/GZpQKdrs_Rs" title="Complete test footage, test site A" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<h2>Complete test footage, test site B</h2>
+<p>Autonomous exploration, aside from 12 interventions in 20 minutes</p>
+<div class="video"><iframe src="https://www.youtube.com/embed/i-8RXuMICNI" title="Complete test footage, test site B" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</article>
+</div>
+</main>
+<!-- include: footer -->
+<footer class="site-footer">
+  <div class="wrap">
+    <p><a href="mailto:jft@cim.mcgill.ca">jft@cim.mcgill.ca</a> · <a href="https://github.com/jefft255">GitHub</a> · <a href="https://twitter.com/qcjefftqc">Twitter</a></p>
+  </div>
+</footer>
+<!-- end: footer -->
+</body>
+</html>
